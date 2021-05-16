@@ -1,0 +1,59 @@
+{
+    "frase":[
+        {
+            "id":1,
+            "texto":"No intentes convertirte en un hombre de éxito, sino en un hombre de valor. Albert Einstein.",
+            "autor":"Albert Einstein"
+        },
+        {
+            "id":2,
+            "texto":"En la vida hay algo peor que el fracaso: el no haber intentado nada.",
+            "autor":"Franklin D. Rossvelt."
+        },
+        {
+            "id":3,
+            "texto":"El que va demasiado aprisa llega tan tarde como el que va muy despacio.",
+            "autor":"Willian Shakespeare."
+        },
+        {
+            "id":4,
+            "texto":"Quizá la mayor demostración de amor, es aprender a tolerarse hasta los defectos.",
+            "autor":"Jorge Muñoz."
+        },
+        {
+            "id":5,
+            "texto":"El sexo alivia la tensión y el amor la causa.",
+            "autor":"Woody Allen."
+        },
+        {
+            "id":6,
+            "texto":"Un hombre de carácter podrá ser derrotado, pero jamás destruido.",
+            "autor":"Ernest Hemingway."
+        },
+        {
+            "id":7,
+            "texto":"No te ahogas al caer a un río, sino al mantenerte sumergido en el.",
+            "autor":"Paulo Coelho."
+        },
+        {
+            "id":8,
+            "texto":"Gastamos dinero que no tenemos, en cosas que no necesitamos, para impresionar a la gente que no nos importa.",
+            "autor":"Steve Jobs"
+        },
+        {
+            "id":9,
+            "texto":"No dejes que el ruido de las opiniones ajenas apaguen tu voz interna.",
+            "autor":"Steve Jobs."
+        },
+        {
+            "id":10,
+            "texto":"Disculpen si les llamo caballeros, pero todavía no les conozco bien.",
+            "autor":"Groucho Marx."
+        },
+        {
+            "id":10,
+            "texto":"Disculpen si les llamo caballeros, pero todavía no les conozco bien.",
+            "autor":"Groucho Marx."
+        }
+    ]
+}
