@@ -64,7 +64,7 @@ git add origin https://github.com/<tu_usuario>/<nombre_de_tu_repositorio>.git
 #### Agregar al package.json
 ```
 {
-"homepage": "https://yadier2.github.io/Guappjolotas",
+"homepage": "https://<tu_usuario>.github.io/<nombre_de_tu_repositorio>"
 
 },
 
