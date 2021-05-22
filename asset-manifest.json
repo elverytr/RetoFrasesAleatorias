@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/RetoFrasesAleatorias/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/RetoFrasesAleatorias/static/js/main.842eb68d.chunk.js",
-    "main.js.map": "/RetoFrasesAleatorias/static/js/main.842eb68d.chunk.js.map",
-    "runtime-main.js": "/RetoFrasesAleatorias/static/js/runtime-main.4530a218.js",
-    "runtime-main.js.map": "/RetoFrasesAleatorias/static/js/runtime-main.4530a218.js.map",
-    "static/js/2.eaf781d0.chunk.js": "/RetoFrasesAleatorias/static/js/2.eaf781d0.chunk.js",
-    "static/js/2.eaf781d0.chunk.js.map": "/RetoFrasesAleatorias/static/js/2.eaf781d0.chunk.js.map",
-    "static/js/3.7e1708a9.chunk.js": "/RetoFrasesAleatorias/static/js/3.7e1708a9.chunk.js",
-    "static/js/3.7e1708a9.chunk.js.map": "/RetoFrasesAleatorias/static/js/3.7e1708a9.chunk.js.map",
+    "main.js": "/RetoFrasesAleatorias/static/js/main.de21d035.chunk.js",
+    "main.js.map": "/RetoFrasesAleatorias/static/js/main.de21d035.chunk.js.map",
+    "runtime-main.js": "/RetoFrasesAleatorias/static/js/runtime-main.7c761aa2.js",
+    "runtime-main.js.map": "/RetoFrasesAleatorias/static/js/runtime-main.7c761aa2.js.map",
+    "static/js/2.4564c161.chunk.js": "/RetoFrasesAleatorias/static/js/2.4564c161.chunk.js",
+    "static/js/2.4564c161.chunk.js.map": "/RetoFrasesAleatorias/static/js/2.4564c161.chunk.js.map",
+    "static/js/3.04b81286.chunk.js": "/RetoFrasesAleatorias/static/js/3.04b81286.chunk.js",
+    "static/js/3.04b81286.chunk.js.map": "/RetoFrasesAleatorias/static/js/3.04b81286.chunk.js.map",
     "index.html": "/RetoFrasesAleatorias/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/RetoFrasesAleatorias/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.eaf781d0.chunk.js.LICENSE.txt": "/RetoFrasesAleatorias/static/js/2.eaf781d0.chunk.js.LICENSE.txt",
+    "static/js/2.4564c161.chunk.js.LICENSE.txt": "/RetoFrasesAleatorias/static/js/2.4564c161.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/RetoFrasesAleatorias/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4530a218.js",
-    "static/js/2.eaf781d0.chunk.js",
+    "static/js/runtime-main.7c761aa2.js",
+    "static/js/2.4564c161.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.842eb68d.chunk.js"
+    "static/js/main.de21d035.chunk.js"
   ]
 }
